@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : We’re A Digital Design Agency.
+  content : "OGIT is a technical agency based in Chattogram, Bangladesh. We had started website design & development in mind but with time we are now a full-service software development company but still known as the best web design company in Bangladesh. We are strategists, designers, producers, and technologists who share a passion for creating great ideas and transforming them into engaging user experience, meaningful relationship with business and consumer."
+  feature_item : 
+      # feature item loop
+    - title : Web Development
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : 
+      
+      # feature item loop
+    - title : Easy Customization
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : 
+
+      # feature item loop
+    - title : SEO Optimized
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : 
+      
+      # feature item loop
+    - title : Advertisement
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : 

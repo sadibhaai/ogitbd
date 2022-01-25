@@ -1,0 +1,31 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : If you have any queries feel free to ask our agent, we will be pleased to assist you.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Bakalia, Chittagong, Bangladesh"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +880-1716-066222"
+      
+    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+      info : "Fax: +880-9696-066222"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: oganesson.it@gmail.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"

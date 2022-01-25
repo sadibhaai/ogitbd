@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Services
+  service_item :
+    # service item loop
+    - name : Web Design
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Our experienced web strategist and developers develop exceptional and responsive websites that viewers can have the best possible experience.
+      
+    # service item loop
+    - name : Software Development
+      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : Along with ERP and HR solution we offer custom software development services to automate your business in more efficient way.
+      
+    # service item loop
+    - name : Media &amp; Advertisement
+      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      content : We serve the right content to the right people at the right time. We know how to connect with people on a deeper level with the right blend of digital.
+      
+    # service item loop
+    - name : Graphic Design
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : Socrates said, “Know thyself.” I say, “Know thy users.” And guess what? They don’t think like you do.
+      
+    # service item loop
+    - name : Apps Development
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : Today it’s the age of mobile devices.We have veteran developers to develop feature rich applications to connect with your valuable consumer on the go.
+      
+    # service item loop
+    - name : SEO
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Optimize your site for search engines to get found by your consumers. Today it is far more important to get updated with the strategy of search…

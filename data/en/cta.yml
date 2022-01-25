@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Great Design & Incredible Features"
+  content : "Being driven by the mobility of Science & Technology in the 21st Century, I am determined to build a successful career in this sphere to make one of the best utilization of my cognitive ability and team working skills along with other abilities while improving myself continually and thus growing constantly with expanding responsibilities."
+  button:
+    enable : true
+    label : "Start a project with us"
+    link : "#contact"
